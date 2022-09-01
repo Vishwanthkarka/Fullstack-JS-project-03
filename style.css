@@ -31,6 +31,7 @@ body{
 .list .list-item{
     margin-right: 50px;
     font-weight: 100;
+    cursor: pointer;
 }
 
 .list .list-item:nth-child(1){
@@ -44,6 +45,7 @@ body{
     color:#a08f36;
     border: 2px solid #a08f36;
     border-radius: 6px;
+    cursor: pointer;
 }
 
 
@@ -96,11 +98,13 @@ font-size: 3.5rem;
     border: 2px solid rgb(160, 143, 54);
     padding:13px;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .arrow-btns  div:last-child span{
     border: 2px solid white;
     padding:13px;
     border-radius: 50%;
+    cursor: pointer;
 }
 
